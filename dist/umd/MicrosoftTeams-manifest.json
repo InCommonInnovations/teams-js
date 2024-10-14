@@ -1,0 +1,394 @@
+{
+  "../esm/packages/teams-js/dts/index.d.ts": {
+    "src": "../esm/packages/teams-js/dts/index.d.ts",
+    "integrity": "sha384-xt6l1p0yiCcHwqJekHm5PmHMD1WSxl8hCmzLMMdaSUX9DZJb6eIU4+j0/RqIv/HS"
+  },
+  "../esm/packages/teams-js/dts/internal/VideoFrameTypes.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/VideoFrameTypes.d.ts",
+    "integrity": "sha384-A9OPBrsE/3doD0/jMYos+4MhdD1LD2yNx7j4glsPNyvwNOOyVAj6FE6ZRZnF12hE"
+  },
+  "../esm/packages/teams-js/dts/internal/appIdValidation.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/appIdValidation.d.ts",
+    "integrity": "sha384-RaDPfzLYmxMoroQS9ul4CxlD9JsJdQnIbrHbXRSRn83WIQTT3jKhJNXCQYZnwssT"
+  },
+  "../esm/packages/teams-js/dts/internal/communication.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/communication.d.ts",
+    "integrity": "sha384-TKGjKiWvStATaMDkvVpESTPjQ2VXFD7X9zh3TNMcQ4V6om2uo3w58Z7r16dtRJaG"
+  },
+  "../esm/packages/teams-js/dts/internal/constants.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/constants.d.ts",
+    "integrity": "sha384-FBvQPdbZwnu2p6V9WiBXddOzq0GOfVXxaOndysIuDZp8MkO2Og+qd+GwkWjj+Y2z"
+  },
+  "../esm/packages/teams-js/dts/internal/deepLinkConstants.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/deepLinkConstants.d.ts",
+    "integrity": "sha384-NEDsHR1QdxhixGjNFXggmwPRQp1AWlpqxafp5Ddty+XdgM1lH1JjOA7RNLBhD2RQ"
+  },
+  "../esm/packages/teams-js/dts/internal/deepLinkUtilities.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/deepLinkUtilities.d.ts",
+    "integrity": "sha384-mH6F6snEbFu0MnYyhrPQNfSVBuCV8UQhngz8ffhJsBvXERTvGJcQAFOAejEta2Rj"
+  },
+  "../esm/packages/teams-js/dts/internal/emailAddressValidation.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/emailAddressValidation.d.ts",
+    "integrity": "sha384-MveuvRLdSy8N/meBQxVYcuLhxb0HxuHILR2GaPG2Q71xsqDabPLxzqr0iTkeEIM5"
+  },
+  "../esm/packages/teams-js/dts/internal/globalVars.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/globalVars.d.ts",
+    "integrity": "sha384-hcAkDomVfkIVJRJEOIFNF7r8s+ZHIS+Bgxy0V2HjorwO17lLAUPnVQUDGZ+uAysL"
+  },
+  "../esm/packages/teams-js/dts/internal/handlers.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/handlers.d.ts",
+    "integrity": "sha384-OFBup0YUR455q7BIJSjpdSMERJw3z4V0u3pRfbYFUJZzCq3LIWn/WR6Z1Mpxndy2"
+  },
+  "../esm/packages/teams-js/dts/internal/interfaces.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/interfaces.d.ts",
+    "integrity": "sha384-ZJ14QCyo+Zaji9PFfEyZfYaRa3rCeovr+P+HpWZrKhCLVEHJW1vLqTLTKR5mu5rC"
+  },
+  "../esm/packages/teams-js/dts/internal/internalAPIs.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/internalAPIs.d.ts",
+    "integrity": "sha384-dyObIFGYtwVPtAu0HQyBBNgQH8PAE8DMppYYhoS4WALlvBn5iFmu4X1f6nwpyhRL"
+  },
+  "../esm/packages/teams-js/dts/internal/marketplaceUtils.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/marketplaceUtils.d.ts",
+    "integrity": "sha384-ZZl2338H4xEXqavQBE1iKTHklrtPXHjlEbcSS6qW1joYtCeql85FzS1xsYHqSkcj"
+  },
+  "../esm/packages/teams-js/dts/internal/mediaUtil.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/mediaUtil.d.ts",
+    "integrity": "sha384-hldK34TU9mLZpemsU9tv/yYkwankAxai9Cpc5ZAulPWhHi7r6ZsGI6DzwauEIEc0"
+  },
+  "../esm/packages/teams-js/dts/internal/messageObjects.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/messageObjects.d.ts",
+    "integrity": "sha384-HLXekqg5uCrU6A/vIQSz6kkn+v225u3zXYFmBrV/Rkcx0fVuPvdcpT2y4X+plvRd"
+  },
+  "../esm/packages/teams-js/dts/internal/nestedAppAuthUtils.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/nestedAppAuthUtils.d.ts",
+    "integrity": "sha384-dSmB55MsclH2SKw5U5gkdNrRajPO1TQFYy3XDlcnBJSR6etErnYz9kExphXhfvzU"
+  },
+  "../esm/packages/teams-js/dts/internal/profileUtil.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/profileUtil.d.ts",
+    "integrity": "sha384-0DuMTcsUzb5/9kGbc0hH/Ze3Z9qAsPi6uyULH84m75EyclRV452eyWIly+3cahdL"
+  },
+  "../esm/packages/teams-js/dts/internal/telemetry.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/telemetry.d.ts",
+    "integrity": "sha384-Z/e3srExNUh3XC9mt1B6RIMUK/Yr2hk2UmGi6KdTRR7CAvvS99qKB3KRpSXGx+Bi"
+  },
+  "../esm/packages/teams-js/dts/internal/typeCheckUtilities.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/typeCheckUtilities.d.ts",
+    "integrity": "sha384-b4Tl4QKCdftckB4Xe7lqSQB/HXfjNm08lT7jrQ9x26hMBHb3j/Dv/S4XyYfIJd0B"
+  },
+  "../esm/packages/teams-js/dts/internal/utils.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/utils.d.ts",
+    "integrity": "sha384-QoARV0Ke8filg+NHuOu+SxInwVF3/eDxMkqXwu/1GbNzVOQdeOv48orFfX+u4XpY"
+  },
+  "../esm/packages/teams-js/dts/internal/uuidObject.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/uuidObject.d.ts",
+    "integrity": "sha384-5AxcQeNkjwfUGtdwjWjY0YM89ndOJHEL2tZ3kiNTYuXQwnLe/XLv6jmQhCWFhbdS"
+  },
+  "../esm/packages/teams-js/dts/internal/validOrigins.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/validOrigins.d.ts",
+    "integrity": "sha384-bBRirCLjMfRAXiVIUlCwnvtI/12uLvVhdXkp1qx5c5V+muO9yX9M2Wpr9djnsF/A"
+  },
+  "../esm/packages/teams-js/dts/internal/videoEffectsUtils.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/videoEffectsUtils.d.ts",
+    "integrity": "sha384-6gIiIbz0gS/anb4pustJY8o0iFXwejfBYDrpmGzikre8ZJ+pXsbViS1yOHfnDKvp"
+  },
+  "../esm/packages/teams-js/dts/internal/videoFrameTick.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/videoFrameTick.d.ts",
+    "integrity": "sha384-aJWpQNRLpUnoKgAANdnuc92J0yMi9HaJqYoQ6qCWhXbNWmSrZoVhIR6w3lJOJM4/"
+  },
+  "../esm/packages/teams-js/dts/internal/videoPerformanceMonitor.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/videoPerformanceMonitor.d.ts",
+    "integrity": "sha384-DBXJ0HuzqHsHm3wie+CBRHZcetqoPqo0r0Le7tQSuMo+JeEKpKDYmivH8wKLqidI"
+  },
+  "../esm/packages/teams-js/dts/internal/videoPerformanceStatistics.d.ts": {
+    "src": "../esm/packages/teams-js/dts/internal/videoPerformanceStatistics.d.ts",
+    "integrity": "sha384-0WpZyp0YpHbmOFNK/Wey6+3u6c1C1a99SjBnMefoqHrRpn+M+W4NeyobAE6t3znk"
+  },
+  "../esm/packages/teams-js/dts/private/appEntity.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/appEntity.d.ts",
+    "integrity": "sha384-NDWPHhZBPv8iN4qSyzCea+iD4y88Vz//mkUmyjv+RRw01CaDdG7I8yi74dtf2N7U"
+  },
+  "../esm/packages/teams-js/dts/private/constants.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/constants.d.ts",
+    "integrity": "sha384-QzMB2BAd17OVHmM6iAM5aR2apAI1M529NQSIZUEvLmftnItJssI80bnIqj89M4/w"
+  },
+  "../esm/packages/teams-js/dts/private/conversations.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/conversations.d.ts",
+    "integrity": "sha384-2IesBpQZnVEPXmYRsezsx4TjiTpH/VVR41N2kX9fGo0Gk0bNVsetMYePcFzB+eGV"
+  },
+  "../esm/packages/teams-js/dts/private/copilot.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/copilot.d.ts",
+    "integrity": "sha384-rqjAKYmvvZrq+YxDnyfcYeI7YToEAIQJXuRne+Nm9hXNxSWW4Ra2rKeo3DVXUw8m"
+  },
+  "../esm/packages/teams-js/dts/private/externalAppAuthentication.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/externalAppAuthentication.d.ts",
+    "integrity": "sha384-5OxBifPcrKVdSRaoj7Zp/LI8sqO4sI8rS5c9lOu4wZ52cV0WWUrZoJdH87huC6Ec"
+  },
+  "../esm/packages/teams-js/dts/private/externalAppAuthenticationForCEA.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/externalAppAuthenticationForCEA.d.ts",
+    "integrity": "sha384-UnIwd18JCZHKm9IN7JyUuN4G9YZzlnsFM/vlmXi2x3Ub/CYYVQZVURvWqZQCCb5M"
+  },
+  "../esm/packages/teams-js/dts/private/externalAppCardActions.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/externalAppCardActions.d.ts",
+    "integrity": "sha384-ArzQy196vEiRFNZ4nlVtBlJuUAHCKcIxyWgIUyQWYnCkYXrnKXZ+Jnjw7r8jr+9m"
+  },
+  "../esm/packages/teams-js/dts/private/externalAppCardActionsForCEA.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/externalAppCardActionsForCEA.d.ts",
+    "integrity": "sha384-H5bN04CSI3d3TxCyE1OTZ8VlzoAOM+bkdw+wo03pVDHODy+S/pj9L1OwJPcaDqK1"
+  },
+  "../esm/packages/teams-js/dts/private/externalAppCommands.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/externalAppCommands.d.ts",
+    "integrity": "sha384-yMHg4h46J3kfLXT6FtZQ0heoNfFQpfhpC4jYa+PHHrtIim+jIlfWru9APdroBtWJ"
+  },
+  "../esm/packages/teams-js/dts/private/files.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/files.d.ts",
+    "integrity": "sha384-PSe28r+2mrLqgINhxbQIdK1CBfn6iEWmmBkoHMM/0Q0glQDoa0iQtUggQYb/ZUs1"
+  },
+  "../esm/packages/teams-js/dts/private/hostEntity.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/hostEntity.d.ts",
+    "integrity": "sha384-wmqCc+vSEKzWmCnprITV3kr68+ELtHf8jhKndef8YhjXEGVebsVsq3mrDqxAj1e+"
+  },
+  "../esm/packages/teams-js/dts/private/index.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/index.d.ts",
+    "integrity": "sha384-Wa57frn0x1rB1YMZQMjSQCjGL0uPr2Ek5Q9MF4Z6Ce1YHoxh438IWzio6DzxrlZL"
+  },
+  "../esm/packages/teams-js/dts/private/interfaces.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/interfaces.d.ts",
+    "integrity": "sha384-cJuUZgZ5eaYnb14igNQbMtabhpMp56Q5rY452j65S6ddg1CA1Pm7MlVFQ/RoO8us"
+  },
+  "../esm/packages/teams-js/dts/private/logs.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/logs.d.ts",
+    "integrity": "sha384-l4be6bJVhu4KkP9Bz+Xu71MspHm0BUXxv1Xqwyvq2fQ0Ov5QCNq8QnV4yhh8N4kB"
+  },
+  "../esm/packages/teams-js/dts/private/meetingRoom.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/meetingRoom.d.ts",
+    "integrity": "sha384-61eciE5BQKboT0hoFZ4kmKc3mqQLIMvZJih7j6x7smFH+Ckp0uqCHxi/KO3skHn9"
+  },
+  "../esm/packages/teams-js/dts/private/messageChannels.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/messageChannels.d.ts",
+    "integrity": "sha384-58fD+AGtKxh3KcjG+uVR9Tiu2VHyAsFWW8f2DQpPLhqhw819n/Os32tmCyXeHX52"
+  },
+  "../esm/packages/teams-js/dts/private/notifications.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/notifications.d.ts",
+    "integrity": "sha384-lmUHm2yOVVr1IeQE1hwgfrCvM46BrhYcW/4Ddj+NB/h8LwnZx/2Cmzkdn5aizDie"
+  },
+  "../esm/packages/teams-js/dts/private/otherAppStateChange.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/otherAppStateChange.d.ts",
+    "integrity": "sha384-0wgaSGRuKFT6zaB+MNpzBhXIV+4FOwsNAsCaT5sh8AMVKeW7YZ9iCiyFbAD8VAlU"
+  },
+  "../esm/packages/teams-js/dts/private/privateAPIs.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/privateAPIs.d.ts",
+    "integrity": "sha384-NRLCIqfBtrPqTThEla82tVuA3m/u080lOxAmJCFOSm1/Ldt/3wDIOTcdICwvHPPb"
+  },
+  "../esm/packages/teams-js/dts/private/remoteCamera.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/remoteCamera.d.ts",
+    "integrity": "sha384-LCmLMd4FOIgrivl48dy4M7ZYZrZ4hfJL1tbscFdo+RSjokBiHZV7rvVslFVeBZoa"
+  },
+  "../esm/packages/teams-js/dts/private/teams.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/teams.d.ts",
+    "integrity": "sha384-MbqmlHiDzPYerFTa7RqavntlpldR/7FyCIUdmBXjWdzLr7EQJORgC0vpIThDhPUw"
+  },
+  "../esm/packages/teams-js/dts/private/videoEffectsEx.d.ts": {
+    "src": "../esm/packages/teams-js/dts/private/videoEffectsEx.d.ts",
+    "integrity": "sha384-8oFfynAjYpFG9TwH18+h44k/qPMSASOEafN7yrED2DgeVQ5U0/H8QeQf13IZb5eB"
+  },
+  "../esm/packages/teams-js/dts/public/adaptiveCards.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/adaptiveCards.d.ts",
+    "integrity": "sha384-O3LNHHtAjjHNgDYJDN//2kjauKyQVzFedOKFHlC/Os85vsAj0I/5vMIFMR0B+VHn"
+  },
+  "../esm/packages/teams-js/dts/public/app.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/app.d.ts",
+    "integrity": "sha384-Vfxt9eD2Tde13/BF27yN00uYL+HMZnjVz8lM5TMk/X5Q3IaJ90T+27Hqu+olRKAI"
+  },
+  "../esm/packages/teams-js/dts/public/appId.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/appId.d.ts",
+    "integrity": "sha384-6NdKmPb/We0yI998NpEEmMOg5gFF9hVCGCRI9m17Vvoc0fP9tAMjzPZl4yWKH+Sx"
+  },
+  "../esm/packages/teams-js/dts/public/appInitialization.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/appInitialization.d.ts",
+    "integrity": "sha384-ghCvR7NT/rGjq4Jry1+rBGOmRyZZQDOcU8hooJgYah+2Ur8mTb0wm0oiWr1OSvj9"
+  },
+  "../esm/packages/teams-js/dts/public/appInstallDialog.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/appInstallDialog.d.ts",
+    "integrity": "sha384-D7Ob0i9Jsyx2ZxOi3UwQPaHjs9vvjmkKngM4TLCU3O75Jnb/sWrATeoJIay7Gh6D"
+  },
+  "../esm/packages/teams-js/dts/public/appWindow.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/appWindow.d.ts",
+    "integrity": "sha384-hiqJZj+uVen4mtygqzWhoZL3DuFUxmikt7ocNOzaY66mdXe5sfjPIn/1KhaPeabG"
+  },
+  "../esm/packages/teams-js/dts/public/authentication.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/authentication.d.ts",
+    "integrity": "sha384-Z8MsZBaA6gZ8RCJPU3FJ0SgWJBYNAv4nZMaWfL83ds0DV/+ro9VpRnW1x45rBGTA"
+  },
+  "../esm/packages/teams-js/dts/public/barCode.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/barCode.d.ts",
+    "integrity": "sha384-+LPpbqY/0BunU1+vB+XTzWUMgG4bzFgW+E3ErNGmf4hSYrfU/8Nm4sOve2QXQKVj"
+  },
+  "../esm/packages/teams-js/dts/public/calendar.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/calendar.d.ts",
+    "integrity": "sha384-Afved/oWIUCy5mKuVYrlFmzD3MLDqxddTxNPI5QtqAI3Ilnjw4g3smkg0gIdRp1B"
+  },
+  "../esm/packages/teams-js/dts/public/call.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/call.d.ts",
+    "integrity": "sha384-MLlup9Ry4906do8pOiJthIdD03g/Lu0KTdoKXdSqemUh3NXIr2qi2+bb22LC0X0e"
+  },
+  "../esm/packages/teams-js/dts/public/chat.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/chat.d.ts",
+    "integrity": "sha384-YuXHXm/yT6iQFB6GjQZ+dyE5ce2wdIfo71C6uSPIbpwO+mkM60gfc2gNUzFoccnR"
+  },
+  "../esm/packages/teams-js/dts/public/clipboard.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/clipboard.d.ts",
+    "integrity": "sha384-0B3HzV+mXcVfR3w/jbDvu3MAEncOTRmwp+j0ZNS0d5qq+0Z4DhznZl9y8L1OvFT8"
+  },
+  "../esm/packages/teams-js/dts/public/constants.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/constants.d.ts",
+    "integrity": "sha384-g6+aK5M6mLSmjCPHoCW9gG9B++9cHgCBal+UHO1meMYWwAMhsJuN0vhDDNBIgskK"
+  },
+  "../esm/packages/teams-js/dts/public/dialog.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/dialog.d.ts",
+    "integrity": "sha384-ikSIpqz77nMA9WwpI+lzEZJqpOj8Z5Lt4YkP6OYkQmeWsTzYQ1y3nvBzKSjCbbCp"
+  },
+  "../esm/packages/teams-js/dts/public/emailAddress.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/emailAddress.d.ts",
+    "integrity": "sha384-I5k6IRJQca++bUE/OJ4lh8FYuEj17umNraqTDAID/C4ifReWKriW5DMviG0hNfvO"
+  },
+  "../esm/packages/teams-js/dts/public/geoLocation.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/geoLocation.d.ts",
+    "integrity": "sha384-/SL2jCX1+6ReGu3EjOckJi54HjbiHCbM6a6qyK1jOGADgLJMOTKAA4RNpOyxbLhq"
+  },
+  "../esm/packages/teams-js/dts/public/index.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/index.d.ts",
+    "integrity": "sha384-GANHC2gGy0Bngd3veeu3nA6/X7BBPms6pKQukQlMBcappmCbZrVPU5/s29iiNFYn"
+  },
+  "../esm/packages/teams-js/dts/public/interfaces.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/interfaces.d.ts",
+    "integrity": "sha384-fxS0iGpgkU/AJ6ZAGwVhdd5LrfYfQE8YVHqXbheTseo2sRLhH+VVQRsmdBDrzJfa"
+  },
+  "../esm/packages/teams-js/dts/public/liveShareHost.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/liveShareHost.d.ts",
+    "integrity": "sha384-s/KzjCkrFhpXsovDAEAc9A9+ykH1F1TT3+3i225BAltlchFvyfLN8DYzkPkwCuz0"
+  },
+  "../esm/packages/teams-js/dts/public/location.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/location.d.ts",
+    "integrity": "sha384-qCt/0AjF9GhX2KLmKZIgfEru+3lBInOluPI8w2/2n4TBIOa7WiB2OvBdps445Ij1"
+  },
+  "../esm/packages/teams-js/dts/public/mail.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/mail.d.ts",
+    "integrity": "sha384-t8o8+xWd2d6w88T11+V5r5LUENn3y9bzvOU7grCYI9gBhulyPOfteBftmYaHsfYo"
+  },
+  "../esm/packages/teams-js/dts/public/marketplace.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/marketplace.d.ts",
+    "integrity": "sha384-VQeSEwR2unLXDHME+zTZhFq93ZCBAkkVQvo6EO/sTarraSxSLop+BeG3KGJ2CNvN"
+  },
+  "../esm/packages/teams-js/dts/public/media.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/media.d.ts",
+    "integrity": "sha384-qeGfeHPmpfpUuacelP/CqoW/GkGa3nTela117lf+XX58oiPhYVxRsyN9vr8/bSHM"
+  },
+  "../esm/packages/teams-js/dts/public/meeting.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/meeting.d.ts",
+    "integrity": "sha384-Sy/XjOJIodPidYUF3DLH6h4XMkDUypyVBMDCXE3BCTuakNG/0fk1D56J4J2klDpc"
+  },
+  "../esm/packages/teams-js/dts/public/menus.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/menus.d.ts",
+    "integrity": "sha384-uRsxf/naDEmWwcjKdnNzIUmNNw5GdaWXO5XdMcfT9mhceDuwn1IAUjjGUkxf5QtE"
+  },
+  "../esm/packages/teams-js/dts/public/monetization.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/monetization.d.ts",
+    "integrity": "sha384-IK1H+0kDtnl38ltT5ELD4/42GvIaHTxpoRQ6il9M2YehRVtnsaEur9U/aP2wAJ7/"
+  },
+  "../esm/packages/teams-js/dts/public/navigation.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/navigation.d.ts",
+    "integrity": "sha384-FX8ftLS28cZRNo8qhwwdn1fIU0eRNsZ8FcwBfTkLNuCrU8ZtFPxrERkjaRkV8MPl"
+  },
+  "../esm/packages/teams-js/dts/public/nestedAppAuth.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/nestedAppAuth.d.ts",
+    "integrity": "sha384-fqatuWJjIzJCVEjztgqHlqrxqiSS3RC2BMTV5PBVgjyYleEaW08fdrY/CWcKJTAW"
+  },
+  "../esm/packages/teams-js/dts/public/pages.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/pages.d.ts",
+    "integrity": "sha384-f6tWXYaiHy3E3w+To2vx4VkrTqCWZpiw0EKTCyEm9uowIohBQ45xSIw5J2Fnh9cY"
+  },
+  "../esm/packages/teams-js/dts/public/people.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/people.d.ts",
+    "integrity": "sha384-p2hu791w4LmzH/fsEzczmpIHZ4UKjvVxjHmfpu42/0Y6CwTmCgui/4SJDMBTQVwJ"
+  },
+  "../esm/packages/teams-js/dts/public/profile.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/profile.d.ts",
+    "integrity": "sha384-qsDzxhsSoFJXRR+LyB248GHUdwkV1BlHa2+o499SiQd7Eji2XB/v7ONU7D/xI0b7"
+  },
+  "../esm/packages/teams-js/dts/public/publicAPIs.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/publicAPIs.d.ts",
+    "integrity": "sha384-Ev7Hcct0oRzy6BFQBlAeZRtMuTZ7hGyn85xMpnlRhbmBqSCPP60NDkJlTRY7i2YN"
+  },
+  "../esm/packages/teams-js/dts/public/runtime.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/runtime.d.ts",
+    "integrity": "sha384-dBeD9qn2m5PFbOXarE2g4VNYjh/uhCSOVGGEvMVdk/v1Fdi9iCzK+335tu2U/Ueq"
+  },
+  "../esm/packages/teams-js/dts/public/search.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/search.d.ts",
+    "integrity": "sha384-NtBZQz4GtC6FwVg59V+lTTltSz+dIQKMD8ETXq402uX01/J25i6B86hfeZO86OCt"
+  },
+  "../esm/packages/teams-js/dts/public/secondaryBrowser.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/secondaryBrowser.d.ts",
+    "integrity": "sha384-4E6VViKfptXicqv82OczdDf0bJl0ZhECQR8Qj3nqrEB0JnwnSsqX6HJMOgeuRvXi"
+  },
+  "../esm/packages/teams-js/dts/public/settings.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/settings.d.ts",
+    "integrity": "sha384-MG3eIJ/STpcXN11Z/K+Lj2N1qbs/t6I1XNY6jqy7lkhGCnPdeVFoWEOmf1KKvd1Y"
+  },
+  "../esm/packages/teams-js/dts/public/sharing.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/sharing.d.ts",
+    "integrity": "sha384-vgUuhgcEvXOqbJbkSmIsJlmE1UhKm8ZfyHEHNc9cHAccb7ckHPxAJ4Zr90lEq50B"
+  },
+  "../esm/packages/teams-js/dts/public/stageView.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/stageView.d.ts",
+    "integrity": "sha384-xf4OoQcXHHlzGOW3whozVuOokWdv2zJGa+ek2suq4/qZdUDYBlaCn7nDV+XJpDLc"
+  },
+  "../esm/packages/teams-js/dts/public/tasks.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/tasks.d.ts",
+    "integrity": "sha384-mY23qh9EL5bn1Fcho9txFZgLf4+WGvSpSrPuePHIIk4XC+HuKhlAjaBZLnZmmn9H"
+  },
+  "../esm/packages/teams-js/dts/public/teamsAPIs.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/teamsAPIs.d.ts",
+    "integrity": "sha384-LYMJUu6RyXOXKJwPjKifMCsU+yzkmf91Py/CNI4Fe6r/nsbtIwUL8ihkPZptyikt"
+  },
+  "../esm/packages/teams-js/dts/public/thirdPartyCloudStorage.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/thirdPartyCloudStorage.d.ts",
+    "integrity": "sha384-oQm9v7gtBkO/gR60DKMpk2LHau2/bRsGBibHtObdye2ZUgem9iiuWN9ZXIq398Yl"
+  },
+  "../esm/packages/teams-js/dts/public/version.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/version.d.ts",
+    "integrity": "sha384-rCY8Rjn2hAv9SvKHJlGXd7El0Erq8ciHbXD2d9I+j6ba5Gqb9/eJnmyozzjdN2If"
+  },
+  "../esm/packages/teams-js/dts/public/videoEffects.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/videoEffects.d.ts",
+    "integrity": "sha384-KKCve90f9PNN4Ox8tWqCGeoGc7ZxCje77AzFxirOkmLkaThF0pvqlUD6gSSQ/Q7A"
+  },
+  "../esm/packages/teams-js/dts/public/visualMedia.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/visualMedia.d.ts",
+    "integrity": "sha384-iZKreZJHcaxhoVvLoaeX/9S9PnQptsKf+6GfMuxYaP0x2RUi2FEzxEjN96OWce2Z"
+  },
+  "../esm/packages/teams-js/dts/public/webStorage.d.ts": {
+    "src": "../esm/packages/teams-js/dts/public/webStorage.d.ts",
+    "integrity": "sha384-Jgrwxi3yBqEOWgIXMRiin1F4dYxyRyYoNP3S0DVfHVIpZ1DMF/u+LfvnGZHNtlR0"
+  },
+  "MicrosoftTeams.js": {
+    "src": "MicrosoftTeams.js",
+    "integrity": "sha384-jJD4C9t8ewWbe2TvkHUkZFhFNxMEvWPUI3eIp8d966XzmYlHJ4XR933K6umpws68"
+  },
+  "MicrosoftTeams.js.map": {
+    "src": "MicrosoftTeams.js.map",
+    "integrity": "sha384-Qnw1TNc0nZaFnNSiRRAWSEEQ6wOVP3tX2StPA1j1/kZZlTxGcB5jUMCYop63CfNo"
+  },
+  "MicrosoftTeams.min.js": {
+    "src": "MicrosoftTeams.min.js",
+    "integrity": "sha384-izrF463dkcVsiTZ6xqTyZmWbS/9nKUFzc6aCqoDbRCqJ1txsmgquAA6wMwLyPuBo"
+  },
+  "MicrosoftTeams.min.js.LICENSE.txt": {
+    "src": "MicrosoftTeams.min.js.LICENSE.txt",
+    "integrity": "sha384-hPF/00oxtSTb/qhmRz8e0FJP8AMSBC3JWON+xH5OkoW2AqgJmjPhsoiMzZY2qIpa"
+  },
+  "MicrosoftTeams.min.js.map": {
+    "src": "MicrosoftTeams.min.js.map",
+    "integrity": "sha384-0+i0dji94oEqR2uRacfgXHXiiWSjNQ9HXOMEkdy8+zCdCv/haHqBEhN7ct9GPqfF"
+  }
+}

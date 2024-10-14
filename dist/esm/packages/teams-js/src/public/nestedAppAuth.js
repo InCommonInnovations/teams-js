@@ -1,0 +1,1 @@
+import{ensureInitialized as n}from"../internal/internalAPIs.js";import{runtime as e}from"./runtime.js";var r;!function(r){r.isNAAChannelRecommended=function(){var r;return null!==(r=n(e)&&e.isNAAChannelRecommended)&&void 0!==r&&r}}(r||(r={}));export{r as nestedAppAuth};
